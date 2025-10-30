@@ -29,7 +29,7 @@ root{
 
 
 #s1{
-  background-image: url(./image/image\ code.avif);
+  background-image: url(image code.avif);
   background-size: cover;      /* remplit tout le conteneur */
   background-position: center; /* centre l’image */
   background-repeat: no-repeat; /* empêche la répétition */
@@ -640,4 +640,5 @@ color: #8c28ff;
   }
   @media (prefers-reduced-motion: reduce){
     .ico, .to-top { transition: none !important; }
+
   }
